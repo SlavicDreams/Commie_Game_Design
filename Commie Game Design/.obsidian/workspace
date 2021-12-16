@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "ad0029a16e14f981",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a6ba8a1aaa1a825",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Introduction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc012c20cf8ba101",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cfd6e23b2abdcda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4cff1a685b4af1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ca7729cc96be08e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "385908916ee8f121",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1423f292d36eab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e5ee871c40a3d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a6ba8a1aaa1a825",
+  "lastOpenFiles": [
+    "Introduction.md",
+    "Commied projects.md",
+    "Game design MOC.md"
+  ]
+}
