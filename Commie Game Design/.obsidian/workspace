@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction.md",
+            "file": "Game design MOC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Game design MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
   },
   "active": "4a6ba8a1aaa1a825",
   "lastOpenFiles": [
-    "Introduction.md",
-    "Commied projects.md",
-    "Game design MOC.md"
+    "Game design MOC.md",
+    "Commie projects.md",
+    "Home Page.md",
+    "How to Use.md",
+    "Introduction.md"
   ]
 }

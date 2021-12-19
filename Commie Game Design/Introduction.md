@@ -1,4 +1,4 @@
 How to Use
 
-after reviweing look at
+after reviewing look at
 [[Game design MOC]]
