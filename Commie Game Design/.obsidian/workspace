@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Game design MOC.md",
+            "file": "Home Page.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game design MOC.md",
+                "file": "Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,14 +83,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4a6ba8a1aaa1a825",
   "lastOpenFiles": [
-    "Game design MOC.md",
-    "Commie projects.md",
     "Home Page.md",
     "How to Use.md",
+    "Workers and Resources.md",
+    "Commie projects.md",
+    "Actually Existing Communist Games.md",
+    "test.md",
+    "Game design MOC.md",
     "Introduction.md"
   ]
 }
